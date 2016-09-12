@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Hello,
+
+This is a feeble attempt at a first program.
+
+Farewell.
